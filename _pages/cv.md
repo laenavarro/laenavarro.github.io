@@ -11,30 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* 2010-2014 **PhD in Conservation Biology**, (<i>suma cum laude</i>) from Faculdade de Ciências da Universidade de Lisboa, Portugal.
+* 2006-2007 **MSc in Ethno-ecology** (Mention Très bien – <i>suma cum laude</i>) from the Museum National d’Histoire Naturelle, Paris, France.
+* 2004-2006 **MSc in Conservation Biology** from University Pierre and Marie Curie (Paris VI), Paris, France.
+* 2001-2004 **BSc in Biology** (Mention Bien – <i>magna cum laude</i>) from University Pierre and Marie Curie (Paris VI), Paris, France.
+ 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov. 2021 - Present: **Postdoctoral Researcher** in the Conservation Biology department of the Estacion Biologica de Doñana (EBD-CSIC), Sevilla, Spain.
+* 2020 - 2021: **Postdoctoral Researcher** in the Biodiversity Conservation research group at the German Centre for Integrative Biodiversity Research (iDiv), Martin Luther University Halle-Wittenberg (MLU).
+* 2016 - 2020: **Executive Secretary** of the Group on Earth Observations Biodiversity Observation Network (GEO BON) based at the German Centre for Integrative Biodiversity Research (iDiv), Martin Luther University Halle-Wittenberg (MLU).
+* 2014 - 2016: **Postdoctoral Researcher** in the Biodiversity Conservation research group at the German Centre for Integrative Biodiversity Research (iDiv), Martin Luther University Halle-Wittenberg (MLU).
+* 2009 - 2010: **Research Assistant** at Center for Environmental Biology, University of Lisbon, Portugal.
   
-Skills
+Service and leadership
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Leadership and recognition
+  * Co-lead of the Policy Task Force, GEO BON, 2017-ongoing.
+  * Member of the interim Steering Committee of the Alliance for Biodiversity Knowledge, 2018-2020.
+  * Member of the Science-Policy Committee of iDiv, Leipzig, Germany, 2016-2020.
+  * Lead author in the IPBES Thematic Assessment on Land Degradation and Restoration, 2015-2018.
+  
+* Reviewer for Nature Ecology and Evolution; Methods in Ecology and the Environment; BioScience; Conservation Biology; Ecography; Ecological Indicators; Biological Conservation; Diversity and Distributions; Landscape Ecology; Proceedings B; Restoration Ecology; Ambio; Journal of Wildlife Management; Global and Planetary Change; Land Use Policy; Ecosystems and People; Environmental and Sustainability Indicators.
+
+* Reviewer of grant proposals (once each) for the Natural Sciences Research Council of Canada (2020), the French National Agency (2017), and the Polish National Science Center (2016).
+
+* Outreach
+  * **Pint of Science Sevilla** presentation – <i>Take a walk on the wild side</i> (“Un paseo por el lado silvestre"), 10.05.2022.
+  * Participation in the **preparation of a TV documentary** on Rewilding for ARTE, broadcasted on national TV in France and Germany in May 2019 (“L’Europe à la reconquête de la biodiversité”).
+
+* Organization of international conferences and meetings
+  * **GEO BON Open Science Conference and All Hands Meeting**, virtual. Head of the Organizing Committee (virtual conference with ±580 participants). 07.2020, virtual.
+  * **CBD COP 14** Side-event “From Biodiversity Data to reporting”, co-organized by GEO BON with the GBIF Secretariat and NatureServe. Main organizer. 11.2018, Sharm El Sheikh, Egypt.
+  * **Global Biodiversity Informatics Conference (GBIC2)**. Member of the Steering Committee led by the GBIF Secretariat. 06.2018, Copenhagen, Denmark.
+  * **GEO BON All Hands meeting**. Head of the Organizing Committee (±70 participants with a budget of 60K euros). 07.2018, Beijing, China.
+  * **CBD COP 13** Side-event “Biodiversity Observations for Decision-Making: National Needs and Approaches.”, organized by GEO BON. Main organizer. 12.2016, Cancun, Mexico.
+  * **Data Mobilization Symposium**. Head of the Organizing Committee (±60 participants with a budget of 50K euros). 06.2016, Leipzig, Germany.
+  * **GEO BON Open Science Conference and All Hands meeting**, Leipzig, Germany. Member of the Organizing Committee (±250 participants). 07.2016, Leipzig, Germany.
+  * **Symposium** “From abandoned to wild landscapes: practices, consequences and perceptions of Rewilding in Europe”, 27th ICCB and 4th ECCB. Co-applicant and co-organizer. 07.2015, Montpellier, France.
 
 Publications
 ======
@@ -54,6 +68,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
