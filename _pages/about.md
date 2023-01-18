@@ -16,6 +16,6 @@ My research is interdisciplinary by nature and I enjoy integrating disciplines s
 
 Concretely, my research is organized around three interconnected themes:
 
-* <b>Understanding the patterns and processes of biodiversity responses to global change</b>, from historical changes within the SUMHAL project, to more recent with the sChange working group of iDiv, or even looking into the future. 
-* <b>Ambitious approaches to restoration and conservation for effective conservation policies</b>, with an initial focus on rewilding European landscapes and more recently looking at improving the integrity and connectivity of protected areas within the NaturaConnect project.
+* <b>Understanding the patterns and processes of biodiversity responses to global change</b>, from historical changes within the SUMHAL project, to more recent within the PATHWAYS and sChange projects, or even looking into the future. 
+* <b>Ambitious approaches to restoration and conservation for effective conservation policies</b>, initially focusing on rewilding European landscapes and more recently looking at improving the integrity and connectivity of protected areas within the NaturaConnect project.
 * <b>biodiversity monitoring and knowledge that can effectively support conservation policies</b>, building up on my work coordinating the Group on Earth Observations Biodiversity Observation Network between 2016 and 2020.
