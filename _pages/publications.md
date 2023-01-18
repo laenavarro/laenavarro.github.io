@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
   You can also find my articles on my [Google Scholar](https://scholar.google.pt/citations?user=z9eUGYoAAAAJ&hl=en)
- {% endif %}
  
 Peer-reviewed articles
 ======
@@ -112,7 +110,3 @@ Books, Book chapters, technical reports and non-peer-reviewed publications
 •	Pereira, H. M., **Navarro, L.M.** et al. (2014). [Target 15 - Ecosystem restoration and resilience](https://www.cbd.int/gbo4/). In Progress towards the Aichi Biodiversity Targets: An Assessment of Biodiversity Trends, Policy Scenarios and Key Actions. Global Biodiversity Outlook 4 (GBO4) Technical Report. Leadley, P.W., et al. (Eds) Secretariat of the Convention on Biological Diversity. pp. 361–390. 
 
 {% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
