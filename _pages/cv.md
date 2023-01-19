@@ -42,31 +42,11 @@ Service and leadership
   * Participation in the **preparation of a TV documentary** on Rewilding for ARTE, broadcasted on national TV in France and Germany in May 2019 (“L’Europe à la reconquête de la biodiversité”).
 
 * Organization of international conferences and meetings
-  * **GEO BON Open Science Conference and All Hands Meeting**, virtual. Head of the Organizing Committee (virtual conference with ±580 participants). 07.2020, virtual.
+  * **GEO BON Open Science Conference and All Hands Meeting**. Head of the Organizing Committee (±580 participants). 07.2020, virtual.
   * **CBD COP 14** Side-event “From Biodiversity Data to reporting”, co-organized by GEO BON with the GBIF Secretariat and NatureServe. Main organizer. 11.2018, Sharm El Sheikh, Egypt.
   * **Global Biodiversity Informatics Conference (GBIC2)**. Member of the Steering Committee led by the GBIF Secretariat. 06.2018, Copenhagen, Denmark.
-  * **GEO BON All Hands meeting**. Head of the Organizing Committee (±70 participants with a budget of 60K euros). 07.2018, Beijing, China.
+  * **GEO BON All Hands meeting**. Head of the Organizing Committee (±70 participants). 07.2018, Beijing, China.
   * **CBD COP 13** Side-event “Biodiversity Observations for Decision-Making: National Needs and Approaches.”, organized by GEO BON. Main organizer. 12.2016, Cancun, Mexico.
   * **Data Mobilization Symposium**. Head of the Organizing Committee (±60 participants with a budget of 50K euros). 06.2016, Leipzig, Germany.
   * **GEO BON Open Science Conference and All Hands meeting**, Leipzig, Germany. Member of the Organizing Committee (±250 participants). 07.2016, Leipzig, Germany.
   * **Symposium** “From abandoned to wild landscapes: practices, consequences and perceptions of Rewilding in Europe”, 27th ICCB and 4th ECCB. Co-applicant and co-organizer. 07.2015, Montpellier, France.
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
