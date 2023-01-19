@@ -26,7 +26,3 @@ Teaching
 * 2010		Teaching assistant – **Theoretical Ecology** course in graduate program of the Faculty of Science of the University of Lisbon, Portugal.
 
 {% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
