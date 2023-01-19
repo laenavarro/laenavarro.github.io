@@ -8,7 +8,7 @@ author_profile: true
 Supervision and Mentoring
 ======
 
-* Serio Ortega, <i>VertDisp: an open database on dispersal and movement for vertebrate species in Europe</i>, ongoing. **MSc thesis University Pablo de Olavide (ES)**. Supervisor: L.M. Navarro
+* Sergio Ortega, <i>VertDisp: an open database on dispersal and movement for vertebrate species in Europe</i>, ongoing. **MSc thesis University Pablo de Olavide (Spain)**. Supervisor: L.M. Navarro
 * Nico Spaarkogel, <i>Societal boundaries of rewilding: a review of attitudes towards rewilding actions</i>, Oct.2020. **Pre-MSc program thesis, Wageningen University (The Netherlands)**. Supervisors: Laetitia M. Navarro and Melissa Marselle.
 * Ashley Webb, <i>Projecting the irreplaceability of Colombian forests</i>, Oct.2020. **MSc thesis Bangor University (UK)**. Supervisors: Isabel M.D. Rosa and Laetitia M. Navarro.
 * Teresa Jörger-Hickfang, <i>Essential Biodiversity Variables in support of conservation policy</i>, Feb.2018. **MSc level internship, Martin Luther University (Germany)**. Supervisor: L.M. Navarro.
