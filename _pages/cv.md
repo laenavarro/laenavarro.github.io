@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* 2010-2014 **PhD in Conservation Biology**, (<i>suma cum laude</i>) from Faculdade de Ciências da Universidade de Lisboa, Portugal.
-* 2006-2007 **MSc in Ethno-ecology** (Mention Très bien – <i>suma cum laude</i>) from the Museum National d’Histoire Naturelle, Paris, France.
+* 2010-2014 **PhD in Conservation Biology**, (<i>suma cum laude</i> - com distinção e louvor) from Faculdade de Ciências da Universidade de Lisboa, Portugal.
+* 2006-2007 **MSc in Ethno-ecology** (<i>suma cum laude</i> - mention très bien) from the Museum National d’Histoire Naturelle, Paris, France.
 * 2004-2006 **MSc in Conservation Biology** from University Pierre and Marie Curie (Paris VI), Paris, France.
-* 2001-2004 **BSc in Biology** (Mention Bien – <i>magna cum laude</i>) from University Pierre and Marie Curie (Paris VI), Paris, France.
+* 2001-2004 **BSc in Biology** (<i>magna cum laude</i> - mention très bien) from University Pierre and Marie Curie (Paris VI), Paris, France.
  
 Work experience
 ======
