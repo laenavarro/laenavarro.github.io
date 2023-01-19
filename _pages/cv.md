@@ -19,10 +19,11 @@ Education
 Work experience
 ======
 * Nov. 2021 - Present: **Postdoctoral Researcher** in the Conservation Biology department of the Estacion Biologica de Doñana (EBD-CSIC), Sevilla, Spain.
-* 2020 - 2021: **Postdoctoral Researcher** in the Biodiversity Conservation research group at the German Centre for Integrative Biodiversity Research (iDiv), Martin Luther University Halle-Wittenberg (MLU).
-* 2016 - 2020: **Executive Secretary** of the Group on Earth Observations Biodiversity Observation Network (GEO BON) based at the German Centre for Integrative Biodiversity Research (iDiv), Martin Luther University Halle-Wittenberg (MLU).
-* 2014 - 2016: **Postdoctoral Researcher** in the Biodiversity Conservation research group at the German Centre for Integrative Biodiversity Research (iDiv), Martin Luther University Halle-Wittenberg (MLU).
-* 2009 - 2010: **Research Assistant** at Center for Environmental Biology, University of Lisbon, Portugal.
+* Jan. 2021 - Oct. 2021 <i> **Maternity leave** </i>
+* Oct. 2020 - Sep. 2021: **Postdoctoral Researcher** in the Biodiversity Conservation research group at the German Centre for Integrative Biodiversity Research (iDiv), Martin Luther University Halle-Wittenberg (MLU). 
+* Oct. 2016 - Sep. 2020: **Executive Secretary** of the Group on Earth Observations Biodiversity Observation Network (GEO BON) based at the German Centre for Integrative Biodiversity Research (iDiv), Martin Luther University Halle-Wittenberg (MLU). <i> FTEs allocated to research: 40%</i>
+* Oct. 2014 - Sep. 2016: **Postdoctoral Researcher** in the Biodiversity Conservation research group at the German Centre for Integrative Biodiversity Research (iDiv), Martin Luther University Halle-Wittenberg (MLU).
+* Oct. 2009 - Jan. 2010: **Research Assistant** at Center for Environmental Biology, University of Lisbon, Portugal.
   
 Service and leadership
 ======
