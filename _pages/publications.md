@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-  You can also find my articles on my [Google Scholar](https://scholar.google.pt/citations?user=z9eUGYoAAAAJ&hl=en)
+  You can also find my articles on my [Google Scholar](https://scholar.google.pt/citations?user=z9eUGYoAAAAJ&hl=en). Most publications are in **Open Access** but [email me](laetitia[dot]navarro[at]ebd.csic.es) if you want me to send you the pdf.
  
 Peer-reviewed articles
 ======
