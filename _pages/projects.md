@@ -15,10 +15,12 @@ On-going projects
 Past projects
 ======
 ### As PI or co-PI
-* [**EuropaBON**](https://europabon.org/) project (2020-2023), <i>Europa Biodiversity Observation Network: integrating data streams to support policy</i>. Funded by the European Commission, H2020 program. Role: **Co-PI of WP5** – Showcases. Project PI: Henrique Pereira (iDiv).
-* **iBON** Project (2020-2024), <i>Integrating Biodiversity Observations and Networks</i>. Funded by the German Centre for Integrative Biodiversity Research (iDiv) through the Deutsche Forschungsgemeinschaft (DFG). Project PIs: Jonathan Chase, Henrique M. Pereira, **Laetitia M. Navarro**, Birgitta König-Ries, and Marten Winter.
-* [**TAO**](https://geobon.org/about/projects/tao-tropical-andes-observatory/) Project (2019-2022), <i>From Data to Decision: Collecting, Mobilizing, and Harmonizing Tropical Andes Observatory Data for Improved Conservation Planning</i>. Funded by the European Commission, ERANet LAC program. Project PIs: Henrique M. Pereira and **Laetitia M. Navarro**.
+* [**EuropaBON**](https://europabon.org/) project (2020-2023*), <i>Europa Biodiversity Observation Network: integrating data streams to support policy</i>. Funded by the European Commission, H2020 program. Role: **Co-PI of WP5** – Showcases. Project PI: Henrique Pereira (iDiv).
+* **iBON** Project (2020-2024*), <i>Integrating Biodiversity Observations and Networks</i>. Funded by the German Centre for Integrative Biodiversity Research (iDiv) through the Deutsche Forschungsgemeinschaft (DFG). Project PIs: Jonathan Chase, Henrique M. Pereira, **Laetitia M. Navarro**, Birgitta König-Ries, and Marten Winter.
+* [**TAO**](https://geobon.org/about/projects/tao-tropical-andes-observatory/) Project (2019-2022*), <i>From Data to Decision: Collecting, Mobilizing, and Harmonizing Tropical Andes Observatory Data for Improved Conservation Planning</i>. Funded by the European Commission, ERANet LAC program. Project PIs: Henrique M. Pereira and **Laetitia M. Navarro**.
 * **EBV2020 initiative** (2019-2020), <i>Essential Biodiversity Variables and Indicators for 2020 and beyond</i>. Funded by the Secretariat of the Group on Earth Observations Biodiversity Observation Network (GEO BON). Project PIs: **Laetitia M. Navarro**, Henrique M. Pereira, HyeJin Kim.
+
+(*I stepped down from my role in those projects during my maternity leave and subsequent research institute change.)
 
 ### As Participant
 * **SandLinks** Project (2019-2022), <i>Framing sand sustainability in a telecoupled world</i>. Funded by the European Commission (H2020-MSCA-IF-2018). Role: **Participant**. Project PI: Aurora Torres (Universite catholique de Louvain and Michigan State University).
