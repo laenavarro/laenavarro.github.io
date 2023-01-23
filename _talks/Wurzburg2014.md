@@ -5,6 +5,6 @@ collection: talks
 type: "Seminar Presentation"
 permalink: /talks/Wurzburg2014
 event: "Applied Nature Conservation seminar series of the University of Würzburg"
-date: 2014-06
+date: 2014-06-16
 location: Würzburg, Germany
 ---
