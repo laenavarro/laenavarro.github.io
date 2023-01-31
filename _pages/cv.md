@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* 2010-2014: **PhD in Conservation Biology**, (<i>suma cum laude</i> - com distinção e louvor) from Faculdade de Ciências da Universidade de Lisboa, Portugal.
-* 2006-2007: **MSc in Ethno-ecology** (<i>suma cum laude</i> - mention très bien) from the Museum National d’Histoire Naturelle, Paris, France.
-* 2004-2006: **MSc in Conservation Biology** from University Pierre and Marie Curie (Paris VI), Paris, France.
+* 2010-2014: **PhD in Conservation Biology**, (<i>suma cum laude</i> - com distinção e louvor) from Faculdade de Ciências da Universidade de Lisboa, Portugal.  
+<u>Thesis </u>: "Rewilding abandoned landscapes in Europe: biodiversity impact and contribution to human well-being".
+* 2006-2007: **MSc in Ethno-ecology** (<i>suma cum laude</i> - mention très bien) from the Museum National d’Histoire Naturelle, Paris, France.  
+<u>Thesis </u>: "Uses and perceptions of lemurs, traveller’s palms and baobabs in Northwestern Madagascar".
+* 2004-2006: **MSc in Conservation Biology** from University Pierre and Marie Curie (Paris VI), Paris, France.  
+<u>Thesis </u>: "Is dispersal good or bad in a fragmented landscape?".
 * 2001-2004: **BSc in Biology** (<i>magna cum laude</i> - mention très bien) from University Pierre and Marie Curie (Paris VI), Paris, France.
  
 Work experience
