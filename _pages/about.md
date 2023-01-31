@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a conservation biologist at the [Doñana Biological Station](https://ebd.csic.es) of the Spanish Research Council (EBD-CSIC). 
+I am a conservation biologist at the [Doñana Biological Station](https://ebd.csic.es) of the Spanish Research Council (EBD-CSIC), in the Department of Conservation Biology and Global Change (*Biología de la Conservación y Cambio Global*). 
 
 My goal is to understand the patterns and processes of biodiversity change while proposing novel approaches to address such change. I am particularly interested in how biodiversity responds to human activities (or a lack thereof) and how this knowledge can support effective conservation policies. 
 
