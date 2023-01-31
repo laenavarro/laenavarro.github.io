@@ -15,7 +15,8 @@ Supervision and Mentoring
 * Janin Hochheimer, <i>Using large open-access biodiversity datasets to identify priority areas for future monitoring</i>, Jan.2018. **MSc thesis at Martin Luther University (Germany)**. Supervisors: Laetitia M. Navarro and Henrique Pereira.
 * Yanna Jones, <i>Global Biodiversity Conservation: Moving beyond a binary vision of protected area</i>, Oct. 2016. **MSc thesis at the University of Lyon 2 Lumiere (France)**. Supervisors: Ruppert Vimal and Laetitia M. Navarro
 
-* Ingmar R. Staude, Systematic temporal turnover towards species with larger geographic ranges across plant communities, 2017-2021. **PhD thesis at iDiv and Martin Luther University (Germany)**. Member of the PhD Advisory Committee.
+* Ingmar R. Staude, Systematic temporal turnover towards species with larger geographic ranges across plant communities, 2017-2021. **PhD thesis at iDiv and Martin Luther University (Germany)**. Member of the PhD Advisory Committee (PAC team).  
+* Andrea Perino, Rewilding complex ecosystems - a theoretical framework and empirical contributions, 2015-2019. **PhD thesis at iDiv and Martin Luther University (Germany)**. Member of the PhD Advisory Committee (PAC team).
 
 Teaching
 ======
