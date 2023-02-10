@@ -9,7 +9,7 @@ author_profile: true
 
 On-going projects
 ======
-* [**NaturaConnect**](https://naturaconnect.eu/) Project (2022-2026), <i>Building a resilient ecological network of conserved areas across Europe for nature and people</i>. Funded by the European Commission, Horizon Europe program. Role: **co-lead of WP3: Baselines and scenarios for European biodiversity**. Project PIs: Piero Visconti (IIASA) and Nestor Fernandez (iDiv).
+* [**NaturaConnect**](https://naturaconnect.eu/) Project (2022-2026), <i>Building a resilient ecological network of conserved areas across Europe for nature and people</i>. Funded by the European Commission, Horizon Europe program. Role: **co-lead of WP3: Baselines and scenarios for European biodiversity**. Project PI: Piero Visconti (IIASA).
 * [**SUMHAL**](https://lifewatcheric-sumhal.csic.es/en/) Project (2021-2023) <i>Sustainability for Mediterranean Hotspots in Andalusia integrating LifeWatch ERIC</i>. Funded by FEDER funds for activities related to LifeWatch ERIC. Role: **contracted researcher in WP3 - Exploring ways to generate, mobilize and disseminate long-term biodiversity information: from conservation baselines to management assessments**. Project PI: Margarita Paneque (CSIC).
 
 Past projects
