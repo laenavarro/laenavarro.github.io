@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+Starting soon
+======
+* **BaseShift** Project (07.2023-06.2025), <i>Shifting the baseline and assessing its impact on the status and trends of biodiversity and its implication for decision-making in conservation</i>. Funded by the European Commission (HORIZON-MSCA-2022-PF-01). Role: **MSCA Fellow**  
+
 On-going projects
 ======
 * [**NaturaConnect**](https://naturaconnect.eu/) Project (2022-2026), <i>Building a resilient ecological network of conserved areas across Europe for nature and people</i>. Funded by the European Commission, Horizon Europe program. Role: **co-lead of WP3: Baselines and scenarios for European biodiversity**. Project PI: Piero Visconti (IIASA).
