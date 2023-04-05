@@ -9,7 +9,7 @@ author_profile: true
 
 Starting soon
 ======
-* **BaseShift** Project (07.2023-06.2025), <i>Shifting the baseline and assessing its impact on the status and trends of biodiversity and its implication for decision-making in conservation</i>. Funded by the European Commission (HORIZON-MSCA-2022-PF-01). Role: **MSCA Fellow**  
+* **BaseShift** Project (2023-2025), <i>Shifting the baseline and assessing its impact on the status and trends of biodiversity and its implication for decision-making in conservation</i>. Funded by the European Commission (HORIZON-MSCA-2022-PF-01). Role: **MSCA Fellow**  
 
 On-going projects
 ======
