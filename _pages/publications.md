@@ -88,6 +88,11 @@ Peer-reviewed articles
 
 Pre-Prints
 ======
+•	Kim, H., Navarro, L., Balvanera, P., Campbell, J., Chaplin-Kramer, R., Child, M., Ferrier, S., Geller, G., Gill, M., Krug, C., Millette, K. L., Muller-Karger, F. E., & Pereira, H. M. (2023). [Essential Biodiversity Variables and Essential Ecosystem Services Variables for the Implementation of Biodiversity Conservation and Sustainable Development Goals](https://ecoevorxiv.org/repository/view/5464/). EcoEvoRxiv preprint.
+
+•	Valdez, J. W., Pereira, H. M., Morejón, G. F., Acosta-Muñoz, C., Garcia, F. J. B., Vergara, L. C., Xavier, C. R., Gill, M. J., Josse, C., Lafuente-Cartagena, I., Langstroth, R., Sheppard, S. N., Orihuela, G., Prieto-Albuja, F. J., Quillahuaman, N., Terán, M. F., Zambrana-Torrelio, C. M., Navarro, L. M., & Fernandez, M. (2023). [Tailoring evidence into action: Using a codesign approach for biodiversity information in the Tropical Andes](https://doi.org/10.1101/2023.05.20.541564) p. 2023.05.20.541564. bioRxiv preprint. 
+
+
 •	Torres, A., zu Ermgassen, S.O.S.E, Ferri-Yanez, F., **Navarro, L.M.**, Rosa, I.M.D., Teixeira, F.Z., Wittkopp, C., Liu, J. 2022. [Unearthing the global impact of mining construction minerals on biodiversity](https://doi.org/10.1101/2022.03.23.485272). bioRxiv preprint.
 
 •	Pereira, H. M., Junker, J., Fernández, N., Maes, J., Beja, P., Bonn, A., Breeze, T., Brotons, L., Bruehlheide, H., Buchhorn, M., Capinha, C., Chow, C., Dietrich, K., Dornelas, M., Dubois, G., Fernandez, M., Frenzel, M., Friberg, N., Fritz, S., Georgieva, I., Gobin, A., Guerra, C., Haande, S., Herrando, S., Jandt, U., Kissling, W. D., Kühn, I., Langer, C., Liquete, C., Lyche Solheim, A., Martí, D., Martin, J. G. C., Masur, A., McCallum, I., Mjelde, M., Moe, S. J., Moersberger, H., Moran-Ordoñez, A., Moreira, F., Musche, M., **Navarro, L. M.**, Orgiazzi, A., Patchett, R., Penev, L., Pino, J., Popova, G., Potts, S., Ramon, A., Sandin, L., Santana, J., Sapundzhieva, A., See, L., Shamoun-Baranes, J., Smets, B., L., Stoev, P., Tedersoo, L., Tiirmann, L., Valdez, J., Vallecillo, S., Van Grunsven, R. H. A., Van De Kerchove, R., Villero, D., Visconti, P., Weinhold, C., Zuleger, A. M. 2022. [Europa Biodiversity Observation Network: integrating data streams to support policy](https://doi.org/10.3897/arphapreprints.e81207). ARPHA Preprints. 
