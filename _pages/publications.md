@@ -10,10 +10,12 @@ author_profile: true
 Peer-reviewed articles
 ======
 ### 2023
+• Gonzalez, A., Vihervaara, P., Balvanera, P., Bates, A. E., Bayraktarov, E., Bellingham, P. J., Bruder, A., Campbell, J., Catchen, M. D., Cavender-Bares, J., Chase, J., Coops, N., Costello, M. J., Dornelas, M., Dubois, G., Duffy, E. J., Eggermont, H., Fernandez, N., Ferrier, S., ... **Navarro L.M.** ... Wright, E., 2023. [A global biodiversity observing system to unite monitoring and guide action](https://doi.org/10.1038/s41559-023-02171-0). <i>Nature Ecology & Evolution</i>, 1–5. 
+
 •	Hoban, S., W. Bruford M., da Silva J.M., Funk W.C., Frankham R., Gill M.J., Grueber C.E., Heuertz M., Hunter M.E., Kershaw F., Lacy R.C., Lees C., Lopes-Fernandes M., MacDonald A.J., Mastretta-Yanes A., McGowan P.J.K., Meek M.H., Mergeay J., Millette K.L., Mittan-Moreau C.S., **Navarro L.M.**, O’Brien D., Ogden R., Segelbacher G., Paz-Vinas I., Vernesi C., and Laikre L.,2023. [Genetic Diversity Goals and Targets Have Improved, but Remain Insufficient for Clear Implementation of the Post-2020 Global Biodiversity Framework](https://link.springer.com/article/10.1007/s10592-022-01492-0). <i>Conservation Genetics</i>.
 
 ### 2022
-•	Comer PJ, Valdez J, Pereira HM, Acosta-Muñoz C, Campos F, Bonet García FJ, Claros X, Castro L, Dallmeier F, Domic Rivadeneira EY, Gill M, Josse C, Lafuente Cartagena I, Langstroth R, Larrea-Alcázar D, Masur A, Morejon Jaramillo G, **Navarro L**, Novoa S, Prieto-Albuja F, Rey Ortíz G, Teran MF, Zambrana-Torrelio C, Fernandez M. [Conserving Ecosystem Diversity in the Tropical Andes](https://doi.org/10.3390/rs14122847). <i>Remote Sensing</i>. 2022; 14(12):2847.
+•	Comer PJ, Valdez J, Pereira HM, Acosta-Muñoz C, Campos F, Bonet García FJ, Claros X, Castro L, Dallmeier F, Domic Rivadeneira EY, Gill M, Josse C, Lafuente Cartagena I, Langstroth R, Larrea-Alcázar D, Masur A, Morejon Jaramillo G, **Navarro L**, Novoa S, Prieto-Albuja F, Rey Ortíz G, Teran MF, Zambrana-Torrelio C, Fernandez M.,2022. [Conserving Ecosystem Diversity in the Tropical Andes](https://doi.org/10.3390/rs14122847). <i>Remote Sensing</i>, 14(12):2847.
 
 •	Quintero-Uribe, L.C., **Navarro, L.M.**, Pereira, H.M., Fernández, N., 2022. [Participatory scenarios for restoring European landscapes show a plurality of nature values](https://doi.org/10.1111/ecog.06292). <i>Ecography</i> 2022, e06292. 
 
