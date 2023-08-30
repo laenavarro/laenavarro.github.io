@@ -36,7 +36,7 @@ Service and leadership
   * Member of the Science-Policy Committee of iDiv, Leipzig, Germany, 2016-2020.
   * Lead author in the IPBES Thematic Assessment on Land Degradation and Restoration, 2015-2018.
   
-* Reviewer for Nature Ecology and Evolution; Methods in Ecology and the Environment; BioScience; Conservation Biology; Ecography; Ecological Indicators; Biological Conservation; Diversity and Distributions; Landscape Ecology; Proceedings B; Restoration Ecology; Ambio; Journal of Wildlife Management; Global and Planetary Change; Land Use Policy; Ecosystems and People; Environmental and Sustainability Indicators.
+* Reviewer for Nature Ecology and Evolution; Methods in Ecology and the Environment; BioScience; Conservation Biology; Ecography; Ecological Indicators; Biological Conservation; Diversity and Distributions; Landscape Ecology; Proceedings B; Restoration Ecology; Ambio; Journal of Wildlife Management; Global and Planetary Change; Land Use Policy; Ecosystems and People; Environmental and Sustainability Indicators; Trends in Ecology and Evolution.
 
 * Reviewer of grant proposals (once each) for the Natural Sciences Research Council of Canada (2020), the French National Agency (2017), and the Polish National Science Center (2016).
 
