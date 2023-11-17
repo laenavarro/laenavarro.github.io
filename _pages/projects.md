@@ -7,12 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-Starting soon
-======
-* **BaseShift** Project (2023-2025), <i>Shifting the baseline and assessing its impact on the status and trends of biodiversity and its implication for decision-making in conservation</i>. Funded by the European Commission (HORIZON-MSCA-2022-PF-01). Role: **MSCA Fellow**  
-
 On-going projects
 ======
+### As PI
+* **BaseShift** Project (2023-2025), <i>Shifting the baseline and assessing its impact on the status and trends of biodiversity and its implication for decision-making in conservation</i>. Funded by the European Commission (HORIZON-MSCA-2022-PF-01). Role: **MSCA Fellow**
+
+### As Participant or contracted researcher 
 * [**NaturaConnect**](https://naturaconnect.eu/) Project (2022-2026), <i>Building a resilient ecological network of conserved areas across Europe for nature and people</i>. Funded by the European Commission, Horizon Europe program. Role: **co-lead of WP3: Baselines and scenarios for European biodiversity**. Project PI: Piero Visconti (IIASA).
 * [**SUMHAL**](https://lifewatcheric-sumhal.csic.es/en/) Project (2021-2023) <i>Sustainability for Mediterranean Hotspots in Andalusia integrating LifeWatch ERIC</i>. Funded by FEDER funds for activities related to LifeWatch ERIC. Role: **contracted researcher in WP3 - Exploring ways to generate, mobilize and disseminate long-term biodiversity information: from conservation baselines to management assessments**. Project PI: Margarita Paneque (CSIC).
 
