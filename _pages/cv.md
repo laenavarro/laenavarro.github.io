@@ -41,7 +41,8 @@ Service and leadership
 * Reviewer of grant proposals (once each) for the Natural Sciences Research Council of Canada (2020), the French National Agency (2017), and the Polish National Science Center (2016).
 
 * Outreach
-  * **Pint of Science Sevilla** presentation – <i>Take a walk on the wild side</i> (“Un paseo por el lado silvestre"), 10.05.2022.
+  * **Semana de la Ciencia** (Week of Science) –  Outreach activity with high school students from Seville organized at EBD-CSIC: <i>Ecología histórica: una ventana a la biodiversidad del pasado</i> ("Historical ecology: a window to the biodiversity of the past"), 15.11.2023.
+  * **Pint of Science Sevilla** presentation – <i>Un paseo por el lado silvestre</i> (“Take a walk on the wild side"), 10.05.2022.
   * Participation in the **preparation of a TV documentary** on Rewilding for ARTE, broadcasted on national TV in France and Germany in May 2019 (“L’Europe à la reconquête de la biodiversité”).
 
 * Organization of international conferences and meetings
