@@ -10,6 +10,10 @@ author_profile: true
 Peer-reviewed articles
 ======
 ### 2023
+• Botting, I., Ascensão, F., **Navarro, L. M.**, Paniw, M., Tablado, Z., Román, J., Revilla, E., & D’Amico, M. (in press). The road to success and the fences to be crossed: Considering multiple infrastructure in landscape connectivity modelling. <i>Wildlife Biology</i>.
+
+• Valdez, J. W., Pereira, H. M., Morejón, G. F., Acosta-Muñoz, C., Garcia, F. J. B., Vergara, L. C., Xavier, C. R., Gill, M. J., Josse, C., Lafuente-Cartagena, I., Langstroth, R., Sheppard, S. N., Orihuela, G., Prieto-Albuja, F. J., Quillahuaman, N., Terán, M. F., Zambrana-Torrelio, C. M., **Navarro, L. M.**, & Fernandez, M. 2023. [Tailoring evidence into action: Using a codesign approach for biodiversity information in the Tropical Andes](https://doi.org/10.1111/csp2.13035). <i>Conservation Science and Practice</i>, e1305, [Spanish version](https://doi.org/10.1590/SciELOPreprints.7092).
+
 • Gonzalez, A., Vihervaara, P., Balvanera, P., Bates, A. E., Bayraktarov, E., Bellingham, P. J., Bruder, A., Campbell, J., Catchen, M. D., Cavender-Bares, J., Chase, J., Coops, N., Costello, M. J., Dornelas, M., Dubois, G., Duffy, E. J., Eggermont, H., Fernandez, N., Ferrier, S., ... **Navarro L.M.** ... Wright, E., 2023. [A global biodiversity observing system to unite monitoring and guide action](https://doi.org/10.1038/s41559-023-02171-0). <i>Nature Ecology & Evolution</i>, 1–5. 
 
 •	Hoban, S., W. Bruford M., da Silva J.M., Funk W.C., Frankham R., Gill M.J., Grueber C.E., Heuertz M., Hunter M.E., Kershaw F., Lacy R.C., Lees C., Lopes-Fernandes M., MacDonald A.J., Mastretta-Yanes A., McGowan P.J.K., Meek M.H., Mergeay J., Millette K.L., Mittan-Moreau C.S., **Navarro L.M.**, O’Brien D., Ogden R., Segelbacher G., Paz-Vinas I., Vernesi C., and Laikre L.,2023. [Genetic Diversity Goals and Targets Have Improved, but Remain Insufficient for Clear Implementation of the Post-2020 Global Biodiversity Framework](https://link.springer.com/article/10.1007/s10592-022-01492-0). <i>Conservation Genetics</i>.
@@ -91,9 +95,6 @@ Peer-reviewed articles
 Pre-Prints
 ======
 •	Kim, H., **Navarro, L.**, Balvanera, P., Campbell, J., Chaplin-Kramer, R., Child, M., Ferrier, S., Geller, G., Gill, M., Krug, C., Millette, K. L., Muller-Karger, F. E., & Pereira, H. M. (2023). [Essential Biodiversity Variables and Essential Ecosystem Services Variables for the Implementation of Biodiversity Conservation and Sustainable Development Goals](https://ecoevorxiv.org/repository/view/5464/). EcoEvoRxiv preprint.
-
-•	Valdez, J. W., Pereira, H. M., Morejón, G. F., Acosta-Muñoz, C., Garcia, F. J. B., Vergara, L. C., Xavier, C. R., Gill, M. J., Josse, C., Lafuente-Cartagena, I., Langstroth, R., Sheppard, S. N., Orihuela, G., Prieto-Albuja, F. J., Quillahuaman, N., Terán, M. F., Zambrana-Torrelio, C. M., **Navarro, L. M.**, & Fernandez, M. (2023). [Tailoring evidence into action: Using a codesign approach for biodiversity information in the Tropical Andes](https://doi.org/10.1101/2023.05.20.541564) p. 2023.05.20.541564. bioRxiv preprint. 
-
 
 •	Torres, A., zu Ermgassen, S.O.S.E, Ferri-Yanez, F., **Navarro, L.M.**, Rosa, I.M.D., Teixeira, F.Z., Wittkopp, C., Liu, J. 2022. [Unearthing the global impact of mining construction minerals on biodiversity](https://doi.org/10.1101/2022.03.23.485272). bioRxiv preprint.
 
