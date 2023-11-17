@@ -7,9 +7,9 @@ author_profile: true
 
 Supervision and Mentoring
 ======
-
-* Ruth McAlister and Jake Tapping, Development of a database on dispersal for the species of the Doñana Protected Area, ongoing (May-July 2023). **Turing program Internships (United Kingdom)**. Supervisors: L.M. Navarro and Zulima Tablado.
+* Sharif Khalid, Integration and harmonization of movement data for the carnivores of the Doñana Protected Area, ongoing (September-December 2023). **Turing program Internships (United Kingdom)**. Supervisors: Zulima Tablado and L.M. Navarro.  
 * Sergio Ortega, <i>VertDisp: an open database on dispersal and movement for vertebrate species in Europe</i>, ongoing. **MSc thesis University Pablo de Olavide (Spain)**. Supervisor: L.M. Navarro
+* Ruth McAlister and Jake Tapping, Development of a database on dispersal for the species of the Doñana Protected Area, May-July 2023. **Turing program Internships (United Kingdom)**. Supervisors: L.M. Navarro and Zulima Tablado.  
 * Nico Spaarkogel, <i>Societal boundaries of rewilding: a review of attitudes towards rewilding actions</i>, defended in Oct.2020. **Pre-MSc program thesis, Wageningen University (The Netherlands)**. Supervisors: Laetitia M. Navarro and Melissa Marselle.
 * Ashley Webb, <i>Projecting the irreplaceability of Colombian forests</i>, defended in Oct.2020. **MSc thesis Bangor University (UK)**. Supervisors: Isabel M.D. Rosa and Laetitia M. Navarro.
 * Teresa Jörger-Hickfang, <i>Essential Biodiversity Variables in support of conservation policy</i>, Feb.2018. **MSc level internship, Martin Luther University (Germany)**. Supervisor: L.M. Navarro.
