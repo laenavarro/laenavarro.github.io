@@ -10,7 +10,7 @@ author_profile: true
 Peer-reviewed articles
 ======
 ### 2023
-• Botting, I., Ascensão, F., **Navarro, L. M.**, Paniw, M., Tablado, Z., Román, J., Revilla, E., & D’Amico, M. (in press). The road to success and the fences to be crossed: Considering multiple infrastructure in landscape connectivity modelling. <i>Wildlife Biology</i>.
+• Botting, I., Ascensão, F., **Navarro, L. M.**, Paniw, M., Tablado, Z., Román, J., Revilla, E., & D’Amico, M. (2023). [The road to success and the fences to be crossed: Considering multiple infrastructure in landscape connectivity modelling](https://onlinelibrary.wiley.com/doi/10.1002/wlb3.01187). <i>Wildlife Biology</i>, e01187.
 
 • Valdez, J. W., Pereira, H. M., Morejón, G. F., Acosta-Muñoz, C., Garcia, F. J. B., Vergara, L. C., Xavier, C. R., Gill, M. J., Josse, C., Lafuente-Cartagena, I., Langstroth, R., Sheppard, S. N., Orihuela, G., Prieto-Albuja, F. J., Quillahuaman, N., Terán, M. F., Zambrana-Torrelio, C. M., **Navarro, L. M.**, & Fernandez, M. 2023. [Tailoring evidence into action: Using a codesign approach for biodiversity information in the Tropical Andes](https://doi.org/10.1111/csp2.13035). <i>Conservation Science and Practice</i>, e1305, [Spanish version](https://doi.org/10.1590/SciELOPreprints.7092).
 
