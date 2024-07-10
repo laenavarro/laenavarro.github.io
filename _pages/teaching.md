@@ -7,7 +7,8 @@ author_profile: true
 
 Supervision and Mentoring
 ======
-* Sharif Khalid, Integration and harmonization of movement data for the carnivores of the Doñana Protected Area, ongoing (September-December 2023). **Turing program Internships (United Kingdom)**. Supervisors: Zulima Tablado and L.M. Navarro.  
+* Luke Swindell, <i>Where the wild things could go: assessing the expansion potential of wolf in southern Spain</i>, April – August 2024. **Turing program Internships (United Kingdom)**. Cosupervisor: M. D’Amico
+* Sharif Khalid, <i>Integration and harmonization of movement data for the carnivores of the Doñana Protected Area</i>, ongoing (September-December 2023). **Turing program Internships (United Kingdom)**. Supervisors: Zulima Tablado and L.M. Navarro.  
 * Sergio Ortega, <i>VertDisp: an open database on dispersal and movement for vertebrate species in Europe</i>, ongoing. **MSc thesis University Pablo de Olavide (Spain)**. Supervisor: L.M. Navarro
 * Ruth McAlister and Jake Tapping, Development of a database on dispersal for the species of the Doñana Protected Area, May-July 2023. **Turing program Internships (United Kingdom)**. Supervisors: L.M. Navarro and Zulima Tablado.  
 * Nico Spaarkogel, <i>Societal boundaries of rewilding: a review of attitudes towards rewilding actions</i>, defended in Oct.2020. **Pre-MSc program thesis, Wageningen University (The Netherlands)**. Supervisors: Laetitia M. Navarro and Melissa Marselle.
