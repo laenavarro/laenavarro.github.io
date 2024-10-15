@@ -10,6 +10,8 @@ author_profile: true
 Peer-reviewed articles
 ======
 ### 2024
+• Guareschi, S., Mathers, K. L., South, J., **Navarro, L. M.**, Renals, T., Hiley, A., Antonsich, M., Bolpagni, R., Bortolus, A., Genovesi, P., Jere, A., Madzivanzira, T. C., Phaka, F. M., Novoa, A., Olden, J. D., Saccó, M., Shackleton, R. T., Vilà, M., & Wood, P. J. (2024). [Framing challenges and polarized issues in invasion science: Toward an interdisciplinary agenda](https://doi.org/10.1093/biosci/biae084). <i>BioScience</i>, biae084. 
+
 • Torres, A., S. O. S. E. zu Ermgassen, **L. M. Navarro**, F. Ferri-Yanez, F. Z. Teixeira, C. Wittkopp, I. M. D. Rosa, J. Liu. 2024. [Mining threats in high-level biodiversity conservation policies](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14261). <i>Conservation Biology</i>, e14261.
 
 ### 2023
