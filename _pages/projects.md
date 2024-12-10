@@ -13,7 +13,10 @@ On-going projects
 * **BaseShift** Project (2023-2025), <i>Shifting the baseline and assessing its impact on the status and trends of biodiversity and its implication for decision-making in conservation</i>. Funded by the European Commission (HORIZON-MSCA-2022-PF-01). Role: **MSCA Fellow**
 
 ### As Participant or contracted researcher 
-* [**NaturaConnect**](https://naturaconnect.eu/) Project (2022-2026), <i>Building a resilient ecological network of conserved areas across Europe for nature and people</i>. Funded by the European Commission, Horizon Europe program. Role: **co-lead of WP3: Baselines and scenarios for European biodiversity**. Project PI: Piero Visconti (IIASA).
+* [**NaturaConnect**](https://naturaconnect.eu/) Project (2022-2026), <i>Building a resilient ecological network of conserved areas across Europe for nature and people</i>. Funded by the European Commission, Horizon Europe program. Role: **co-lead of WP3: Baselines and scenarios for European biodiversity**. Project PI: Piero Visconti (IIASA).  
+  - [Data set](https://doi.org/10.5281/zenodo.14008205): **Navarro, L. M.** (2024). Metadatabase of available data on drivers, pressures, biodiversity, ecosystem services and conservation actions [Data set]. Zenodo. 
+  - [Deliverable 3.1](https://doi.org/10.3897/arphapreprints.e142876): **Navarro, L.**, Cosentino, F., Hermoso, V., Maiorano, L., Paniw, M., Revilla, E., Sacchi, A., Santini, L., Tablado, Z., & Thuiller, W. (2024). Data availability on European biodiversity, drivers and protected areas and gap analysis for European tetrapods. ARPHA Preprints, 5, e142876.
+
 * **SANBIO** Project (2022-2026), <i>Impact of sand and other aggregate mining on biodiversity and transitions to sustainability</i>. Funded by the Spanish Generalitat Valenciana. Role: **Collaborator**. Project PI: Aurora Torres (University of Alicante).  
 
 Past projects
