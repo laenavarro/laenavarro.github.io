@@ -9,6 +9,9 @@ author_profile: true
  
 Peer-reviewed articles
 ======
+### 2025
+• **Navarro, L. M.**, Armstrong, C. G., Changeux, T., Frisch, D., Gil-Romera, G., Kaim, D., McClenachan, L., Munteanu, C., Szabó, P., Baranov, V., Blanco-Garrido, F., Camarero, J. J., García, M. B., Grace, M., Izdebski, A., Morueta-Holme, N., Pando, F., Schouten, R., Spitzig, A., Svenning, J.-C., Tribot, A.-S., Viana, D. S., Clavero, M. (2025). [Integrating historical sources for long-term ecological knowledge and biodiversity conservation](https://rdcu.be/eEcIt). <i>Nature Reviews Biodiversity</i>, 1–14.  
+
 ### 2024
 • Guareschi, S., Mathers, K. L., South, J., **Navarro, L. M.**, Renals, T., Hiley, A., Antonsich, M., Bolpagni, R., Bortolus, A., Genovesi, P., Jere, A., Madzivanzira, T. C., Phaka, F. M., Novoa, A., Olden, J. D., Saccó, M., Shackleton, R. T., Vilà, M., & Wood, P. J. (2024). [Framing challenges and polarized issues in invasion science: Toward an interdisciplinary agenda](https://doi.org/10.1093/biosci/biae084). <i>BioScience</i>, biae084. 
 
@@ -99,7 +102,11 @@ Peer-reviewed articles
 
 Pre-Prints
 ======
-•	Kim, H., **Navarro, L.**, Balvanera, P., Campbell, J., Chaplin-Kramer, R., Child, M., Ferrier, S., Geller, G., Gill, M., Krug, C., Millette, K. L., Muller-Karger, F. E., & Pereira, H. M. (2023). [Essential Biodiversity Variables and Essential Ecosystem Services Variables for the Implementation of Biodiversity Conservation and Sustainable Development Goals](https://ecoevorxiv.org/repository/view/5464/). EcoEvoRxiv preprint.
+•	Paniw, M., Viana, D. S., Coccia, C., Domínguez-García, V., Donázar, Í., Franciscis, S. de, García-Rodriguez, A., Guareschi, S., Homet, P., Lanuza, J. B., López-Calderón, C., Mendoza, I., Moracho, E., **Navarro, L.M.**, Puy, J., Reyes-González, J. M., Ruiz-López, M. J., Tablado, Z., Tena, E., Tobajas, E., Velado-Alonso, E., Villalva, P., Villar, N., & D’Amico, M. (2025). [Multiple global-change drivers and cascading effects in Mediterranean ecosystems: Lessons from an iconic national park](https://ecoevorxiv.org/repository/view/9416/).  
+
+•	**Navarro, L.M.**, Cosentino, F., Hermoso, V., Maiorano, L., Paniw, M., Revilla, E., Sacchi, A., Santini, L., Tablado, Z., & Thuiller, W. (2024). [Data availability on European biodiversity, drivers and protected areas and gap analysis for European tetrapods](https://doi.org/10.3897/arphapreprints.e142876). <i>ARPHA Preprints</i>, 5, e142876.   
+
+•	Kim, H., Czúcz, B., Balvanera, P., Ferrier, S., Gill, M., Campbell, J., Chaplin-Kramer, R., Child, M., Geller, G., Muller-Karger, F. E., Pereira, H. M., & **Navarro, L.M.** (2023). [From data to decision: Leveraging essential variables in standardizing biodiversity and ecosystem services monitoring and reporting](https://ecoevorxiv.org/repository/view/5464/).  
 
 •	Torres, A., zu Ermgassen, S.O.S.E, Ferri-Yanez, F., **Navarro, L.M.**, Rosa, I.M.D., Teixeira, F.Z., Wittkopp, C., Liu, J. 2022. [Unearthing the global impact of mining construction minerals on biodiversity](https://doi.org/10.1101/2022.03.23.485272). bioRxiv preprint.
 
