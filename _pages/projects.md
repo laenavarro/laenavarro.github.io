@@ -10,9 +10,9 @@ author_profile: true
 On-going projects
 ======
 ### As PI
-* **BaseShift** Project (2023-2025), <i>Shifting the baseline and assessing its impact on the status and trends of biodiversity and its implication for decision-making in conservation</i>. Funded by the European Commission (HORIZON-MSCA-2022-PF-01). Role: **MSCA Fellow**
+* **BaseRESTORE** Project (2025-2027), <i>Reconstructing historical ecosystems distributions and services to establish restoration baselines and their implications for policy and decision making</i>. Projetc of "Consolidación Investigadora" (CNS2024-154503) funded by the Ministerio Ciencia, Innovación y Universidades – Agencia Estatal de Investigacion (Spain).
 
-### As Participant or contracted researcher 
+### As WP lead or collaborator 
 * [**NaturaConnect**](https://naturaconnect.eu/) Project (2022-2026), <i>Building a resilient ecological network of conserved areas across Europe for nature and people</i>. Funded by the European Commission, Horizon Europe program. Role: **co-lead of WP3: Baselines and scenarios for European biodiversity**. Project PI: Piero Visconti (IIASA).  
   - [Data set](https://doi.org/10.5281/zenodo.14008205): **Navarro, L. M.** (2024). Metadatabase of available data on drivers, pressures, biodiversity, ecosystem services and conservation actions [Data set]. Zenodo. 
   - [Deliverable 3.1](https://doi.org/10.3897/arphapreprints.e142876): **Navarro, L.**, Cosentino, F., Hermoso, V., Maiorano, L., Paniw, M., Revilla, E., Sacchi, A., Santini, L., Tablado, Z., & Thuiller, W. (2024). Data availability on European biodiversity, drivers and protected areas and gap analysis for European tetrapods. ARPHA Preprints, 5, e142876.
@@ -22,6 +22,7 @@ On-going projects
 Past projects
 ======
 ### As PI or co-PI
+* **BaseShift** Project (2023-2024), <i>Shifting the baseline and assessing its impact on the status and trends of biodiversity and its implication for decision-making in conservation</i>. Funded by the European Commission (HORIZON-MSCA-2022-PF-01). Role: **MSCA Fellow**  
 * [**EuropaBON**](https://europabon.org/) project (2020-2023*), <i>Europa Biodiversity Observation Network: integrating data streams to support policy</i>. Funded by the European Commission, H2020 program. Role: **Co-PI of WP5** – Showcases. Project PI: Henrique Pereira (iDiv).
 * **iBON** Project (2020-2024*), <i>Integrating Biodiversity Observations and Networks</i>. Funded by the German Centre for Integrative Biodiversity Research (iDiv) through the Deutsche Forschungsgemeinschaft (DFG). Project PIs: Jonathan Chase, Henrique M. Pereira, **Laetitia M. Navarro**, Birgitta König-Ries, and Marten Winter.
 * [**TAO**](https://geobon.org/about/projects/tao-tropical-andes-observatory/) Project (2019-2022*), <i>From Data to Decision: Collecting, Mobilizing, and Harmonizing Tropical Andes Observatory Data for Improved Conservation Planning</i>. Funded by the European Commission, ERANet LAC program. Project PIs: Henrique M. Pereira and **Laetitia M. Navarro**.
