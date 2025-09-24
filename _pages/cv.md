@@ -21,7 +21,8 @@ Education
  
 Work experience
 ======
-* Nov. 2021 - Present: **Postdoctoral Researcher** in the Conservation Biology and Global Change department of the Estacion Biologica de Doñana (EBD-CSIC), Sevilla, Spain.
+* Sept. 2024 - Present: **Ramón y Cajal fellow** in the Conservation Biology and Global Change department of the Estacion Biologica de Doñana (EBD-CSIC), Sevilla, Spain.  
+* Nov. 2021 - Aug. 2024: **Postdoctoral Researcher** in the Conservation Biology and Global Change department of the Estacion Biologica de Doñana (EBD-CSIC), Sevilla, Spain.
 * <i>Jan. 2021 - Oct. 2021 **Maternity leave** </i>
 * Oct. 2020 - Sep. 2021: **Postdoctoral Researcher** in the Biodiversity Conservation research group at the German Centre for Integrative Biodiversity Research (iDiv), Martin Luther University Halle-Wittenberg (MLU). 
 * Oct. 2016 - Sep. 2020: **Executive Secretary** of the Group on Earth Observations Biodiversity Observation Network (GEO BON) based at the German Centre for Integrative Biodiversity Research (iDiv), Martin Luther University Halle-Wittenberg (MLU). <i> FTEs allocated to research: 40%</i>
@@ -31,6 +32,7 @@ Work experience
 Service and leadership
 ======
 * Leadership and recognition
+  * Lead author in the IPBES Methodological Assessment on the Monitoring of Biodiversity and Ecosystem Services, 2025-2026.
   * Co-lead of the Policy Task Force, GEO BON, 2017-ongoing.
   * Member of the interim Steering Committee of the Alliance for Biodiversity Knowledge, 2018-2020.
   * Member of the Science-Policy Committee of iDiv, Leipzig, Germany, 2016-2020.
