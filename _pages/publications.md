@@ -114,6 +114,8 @@ Pre-Prints
 
 Books, Book chapters, technical reports and non-peer-reviewed publications
 ======
+•	**Navarro, L.M.** & Ascensão, F. (in press) Mainstreaming Road Ecology in Biodiversity Conservation Policies. In <i>Road Ecology: Synthesis and Perspectives</i>, D’Amico, M., Barrientos, R., Ascensão, F. (eds). Springer.
+
 •	Fernández, N., Ferrier, S., **Navarro, L.M.**, Pereira, H.M., 2020. [Essential Biodiversity Variables: integrating in-situ observations and remote sensing through modelling](https://doi.org/10.1007/978-3-030-33157-3_18). In: Remote sensing of vegetation, Cavender-Bares, J., Gamon, J.A., Towsend, P.A. (eds). Springer pp. 485-501.
 
 •	Kohler, F., Kotiaho, J., **Navarro L.M.**, Desrousseaux, M., Wegner, G., Bhagwat, S., Reid, R., and Wang, T. [Chapter 2: Concepts and perceptions of land degradation and restoration](https://ipbes.net/assessment-reports/ldr). In IPBES (2018): The IPBES assessment report on land degradation and restoration. Montanarella, L., Scholes, R., and Brainich, A. (eds.). Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Bonn, Germany, pp. 53-134. 
