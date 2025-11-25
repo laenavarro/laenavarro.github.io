@@ -17,7 +17,7 @@ On-going projects
   - [Data set](https://doi.org/10.5281/zenodo.14008205): **Navarro, L. M.** (2024). Metadatabase of available data on drivers, pressures, biodiversity, ecosystem services and conservation actions [Data set]. Zenodo. 
   - [Deliverable 3.1](https://doi.org/10.3897/arphapreprints.e142876): **Navarro, L.**, Cosentino, F., Hermoso, V., Maiorano, L., Paniw, M., Revilla, E., Sacchi, A., Santini, L., Tablado, Z., & Thuiller, W. (2024). Data availability on European biodiversity, drivers and protected areas and gap analysis for European tetrapods. ARPHA Preprints, 5, e142876.
 
-* **SANBIO** Project (2022-2026), <i>Impact of sand and other aggregate mining on biodiversity and transitions to sustainability</i>. Funded by the Spanish Generalitat Valenciana. Role: **Collaborator**. Project PI: Aurora Torres (University of Alicante).  
+* **SANDBIO** Project (2022-2026), <i>Impact of sand and other aggregate mining on biodiversity and transitions to sustainability</i>. Funded by the Spanish Generalitat Valenciana. Role: **Collaborator**. Project PI: Aurora Torres (University of Alicante).  
 
 Past projects
 ======
