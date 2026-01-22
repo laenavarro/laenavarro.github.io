@@ -127,7 +127,7 @@ Books, Book chapters, technical reports and non-peer-reviewed publications
 •	**Navarro, L.M.**, & Pereira, H. M. (2015). [Towards a European policy for rewilding](https://doi.org/10.1007/978-3-319-12039-3_11
 ). In Rewilding European Landscapes (pp. 205–223), Pereira H.M. and Navarro L.M. (eds). Springer.
 
-•	Navarro, L.M., et al. (2015). Maintaining disturbance-dependent habitats. In Rewilding European Landscapes (pp. 143–167), Pereira H.M. and Navarro L.M. (eds). Springer. https://doi.org/10.1007/978-3-319-12039-3_8
+•	Navarro, L.M., et al. (2015). [Maintaining disturbance-dependent habitats](https://doi.org/10.1007/978-3-319-12039-3_8). In Rewilding European Landscapes (pp. 143–167), Pereira H.M. and Navarro L.M. (eds). Springer.
 
 •	Pereira, H. M., **Navarro, L.M.** et al. (2014). [Target 15 - Ecosystem restoration and resilience](https://www.cbd.int/gbo4/). In Progress towards the Aichi Biodiversity Targets: An Assessment of Biodiversity Trends, Policy Scenarios and Key Actions. Global Biodiversity Outlook 4 (GBO4) Technical Report. Leadley, P.W., et al. (Eds) Secretariat of the Convention on Biological Diversity. pp. 361–390. 
 
