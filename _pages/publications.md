@@ -12,14 +12,14 @@ Peer-reviewed articles
 ### 2025
 • **Navarro, L. M.**, Armstrong, C. G., Changeux, T., Frisch, D., Gil-Romera, G., Kaim, D., McClenachan, L., Munteanu, C., Szabó, P., Baranov, V., Blanco-Garrido, F., Camarero, J. J., García, M. B., Grace, M., Izdebski, A., Morueta-Holme, N., Pando, F., Schouten, R., Spitzig, A., Svenning, J.-C., Tribot, A.-S., Viana, D. S., Clavero, M. (2025). [Integrating historical sources for long-term ecological knowledge and biodiversity conservation](https://rdcu.be/eEcIt). <i>Nature Reviews Biodiversity</i>, 1–14.  
 
+• Botting, I., Ascensão, F., **Navarro, L. M.**, Paniw, M., Tablado, Z., Román, J., Revilla, E., D’Amico, M. 2025. [The road to success and the fences to be crossed: Considering multiple infrastructure in landscape connectivity modelling](https://onlinelibrary.wiley.com/doi/10.1002/wlb3.01187). <i>Wildlife Biology</i>, e01187.
+
 ### 2024
 • Guareschi, S., Mathers, K. L., South, J., **Navarro, L. M.**, Renals, T., Hiley, A., Antonsich, M., Bolpagni, R., Bortolus, A., Genovesi, P., Jere, A., Madzivanzira, T. C., Phaka, F. M., Novoa, A., Olden, J. D., Saccó, M., Shackleton, R. T., Vilà, M., & Wood, P. J. (2024). [Framing challenges and polarized issues in invasion science: Toward an interdisciplinary agenda](https://doi.org/10.1093/biosci/biae084). <i>BioScience</i>, biae084. 
 
 • Torres, A., S. O. S. E. zu Ermgassen, **L. M. Navarro**, F. Ferri-Yanez, F. Z. Teixeira, C. Wittkopp, I. M. D. Rosa, J. Liu. 2024. [Mining threats in high-level biodiversity conservation policies](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14261). <i>Conservation Biology</i>, e14261.
 
 ### 2023
-• Botting, I., Ascensão, F., **Navarro, L. M.**, Paniw, M., Tablado, Z., Román, J., Revilla, E., D’Amico, M. 2023. [The road to success and the fences to be crossed: Considering multiple infrastructure in landscape connectivity modelling](https://onlinelibrary.wiley.com/doi/10.1002/wlb3.01187). <i>Wildlife Biology</i>, e01187.
-
 • Valdez, J. W., Pereira, H. M., Morejón, G. F., Acosta-Muñoz, C., Garcia, F. J. B., Vergara, L. C., Xavier, C. R., Gill, M. J., Josse, C., Lafuente-Cartagena, I., Langstroth, R., Sheppard, S. N., Orihuela, G., Prieto-Albuja, F. J., Quillahuaman, N., Terán, M. F., Zambrana-Torrelio, C. M., **Navarro, L. M.**, & Fernandez, M. 2023. [Tailoring evidence into action: Using a codesign approach for biodiversity information in the Tropical Andes](https://doi.org/10.1111/csp2.13035). <i>Conservation Science and Practice</i>, e1305, [Spanish version](https://doi.org/10.1590/SciELOPreprints.7092).
 
 • Gonzalez, A., Vihervaara, P., Balvanera, P., Bates, A. E., Bayraktarov, E., Bellingham, P. J., Bruder, A., Campbell, J., Catchen, M. D., Cavender-Bares, J., Chase, J., Coops, N., Costello, M. J., Dornelas, M., Dubois, G., Duffy, E. J., Eggermont, H., Fernandez, N., Ferrier, S., ... **Navarro L.M.** ... Wright, E., 2023. [A global biodiversity observing system to unite monitoring and guide action](https://doi.org/10.1038/s41559-023-02171-0). <i>Nature Ecology & Evolution</i>, 1–5. 
