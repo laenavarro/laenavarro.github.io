@@ -9,6 +9,11 @@ author_profile: true
  
 Peer-reviewed articles
 ======
+### 2026
+• Ascensão, F., Biasotto, L. D., D’Amico, M., **Navarro, L. M.**, Rebelo, H., Branquinho, C., & Kindel, A. (2026). [Harmonizing nature and power: Mainstreaming biodiversity into electric grid expansion](https://doi.org/10.1016/j.pecon.2025.11.003). <i>Perspectives in Ecology and Conservation</i>, 24(1), 1–6.   
+
+• Román, J., Arias, A. M., Arroyo, J. L., Bastianelli, G., Calzada, J., Clavero, M., Cobo, M. D., Díaz-Paniagua, C., Ibañez, C., Juste, J., Martínez, A., Nogueras, J., Reyes, L. de los, Revilla, E., Rodríguez, R., Rodríguez-Rodríguez, E. J., Valle, J. L. del, Janss, G. F. E., Tablado, Z., D'Amico, M., **Navarro, L. M.** (2026). [Updated checklist of the vertebrate fauna of the Doñana Biosphere Reserve, Spain](https://doi.org/10.3897/zookeys.1269.166028). <i>ZooKeys</i>, 1269, 283–301. [Checklist **Dataset**](https://doi.org/10.15470/idnt5f) available on GBIF.
+
 ### 2025
 • **Navarro, L. M.**, Armstrong, C. G., Changeux, T., Frisch, D., Gil-Romera, G., Kaim, D., McClenachan, L., Munteanu, C., Szabó, P., Baranov, V., Blanco-Garrido, F., Camarero, J. J., García, M. B., Grace, M., Izdebski, A., Morueta-Holme, N., Pando, F., Schouten, R., Spitzig, A., Svenning, J.-C., Tribot, A.-S., Viana, D. S., Clavero, M. (2025). [Integrating historical sources for long-term ecological knowledge and biodiversity conservation](https://rdcu.be/eEcIt). <i>Nature Reviews Biodiversity</i>, 1–14.  
 
