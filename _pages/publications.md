@@ -9,7 +9,9 @@ author_profile: true
  
 Peer-reviewed articles
 ======
-### 2026
+### 2026  
+• Kim, H., Czúcz, B., Balvanera, P., Ferrier, S., Gill, M., Campbell, J., Chaplin-Kramer, R., Child, M., Geller, G., Muller-Karger, F. E., Pereira, H. M., & **Navarro, L.M.** (accepted) From data to decision: leveraging essential variables in standardizing biodiversity and ecosystem services monitoring and reporting. <i> Conservation Letters </i>. [Preprint in EcoEvoRxiv](https://ecoevorxiv.org/repository/view/5464/)
+
 • Ascensão, F., Biasotto, L. D., D’Amico, M., **Navarro, L. M.**, Rebelo, H., Branquinho, C., & Kindel, A. (2026). [Harmonizing nature and power: Mainstreaming biodiversity into electric grid expansion](https://doi.org/10.1016/j.pecon.2025.11.003). <i>Perspectives in Ecology and Conservation</i>, 24(1), 1–6.   
 
 • Román, J., Arias, A. M., Arroyo, J. L., Bastianelli, G., Calzada, J., Clavero, M., Cobo, M. D., Díaz-Paniagua, C., Ibañez, C., Juste, J., Martínez, A., Nogueras, J., Reyes, L. de los, Revilla, E., Rodríguez, R., Rodríguez-Rodríguez, E. J., Valle, J. L. del, Janss, G. F. E., Tablado, Z., D'Amico, M., **Navarro, L. M.** (2026). [Updated checklist of the vertebrate fauna of the Doñana Biosphere Reserve, Spain](https://doi.org/10.3897/zookeys.1269.166028). <i>ZooKeys</i>, 1269, 283–301. [Checklist **Dataset**](https://doi.org/10.15470/idnt5f) available on GBIF.
