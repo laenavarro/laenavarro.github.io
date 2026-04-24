@@ -10,7 +10,7 @@ author_profile: true
 Peer-reviewed articles
 ======
 ### 2026  
-• Kim, H., Czúcz, B., Balvanera, P., Ferrier, S., Gill, M., Campbell, J., Chaplin-Kramer, R., Child, M., Geller, G., Muller-Karger, F. E., Pereira, H. M., & **Navarro, L.M.** (accepted) From data to decision: leveraging essential variables in standardizing biodiversity and ecosystem services monitoring and reporting. <i> Conservation Letters </i>. [Preprint in EcoEvoRxiv](https://ecoevorxiv.org/repository/view/5464/)
+• Kim, H., Czúcz, B., Balvanera, P., Ferrier, S., Gill, M., Campbell, J., Chaplin-Kramer, R., Child, M., Geller, G., Muller-Karger, F. E., Pereira, H. M., & **Navarro, L.M.** (2026) [From data to decision: leveraging essential variables in standardizing biodiversity and ecosystem services monitoring and reporting](http://dx.doi.org/10.1111/con4.70042). <i> Conservation Letters </i>, 19(2), e70042.
 
 • Ascensão, F., Biasotto, L. D., D’Amico, M., **Navarro, L. M.**, Rebelo, H., Branquinho, C., & Kindel, A. (2026). [Harmonizing nature and power: Mainstreaming biodiversity into electric grid expansion](https://doi.org/10.1016/j.pecon.2025.11.003). <i>Perspectives in Ecology and Conservation</i>, 24(1), 1–6.   
 
