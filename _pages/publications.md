@@ -10,6 +10,8 @@ author_profile: true
 Peer-reviewed articles
 ======
 ### 2026  
+•	Paniw, M., Viana, D. S., Coccia, C., Domínguez-García, V., Donázar, Í., Franciscis, S. de, García-Rodriguez, A., Guareschi, S., Homet, P., Lanuza, J. B., López-Calderón, C., Mendoza, I., Moracho, E., **Navarro, L.M.**, Puy, J., Reyes-González, J. M., Ruiz-López, M. J., Tablado, Z., Tena, E., Tobajas, E., Velado-Alonso, E., Villalva, P., Villar, N., & D’Amico, M. (accepted). Multiple global-change drivers and cascading effects in Mediterranean ecosystems: Lessons from an iconic national park. <i>Conservation Science and Practice</i>. [Preprint](https://ecoevorxiv.org/repository/view/9416/).    
+
 • Kim, H., Czúcz, B., Balvanera, P., Ferrier, S., Gill, M., Campbell, J., Chaplin-Kramer, R., Child, M., Geller, G., Muller-Karger, F. E., Pereira, H. M., & **Navarro, L.M.** (2026) [From data to decision: leveraging essential variables in standardizing biodiversity and ecosystem services monitoring and reporting](http://dx.doi.org/10.1111/con4.70042). <i> Conservation Letters </i>, 19(2), e70042.
 
 • Ascensão, F., Biasotto, L. D., D’Amico, M., **Navarro, L. M.**, Rebelo, H., Branquinho, C., & Kindel, A. (2026). [Harmonizing nature and power: Mainstreaming biodiversity into electric grid expansion](https://doi.org/10.1016/j.pecon.2025.11.003). <i>Perspectives in Ecology and Conservation</i>, 24(1), 1–6.   
