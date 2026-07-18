@@ -10,7 +10,11 @@ author_profile: true
 On-going projects
 ======
 ### As PI
-* **BaseRESTORE** Project (2025-2027), <i>Reconstructing historical ecosystems distributions and services to establish restoration baselines and their implications for policy and decision making</i>. Projetc of "Consolidación Investigadora" (CNS2024-154503) funded by the Ministerio Ciencia, Innovación y Universidades – Agencia Estatal de Investigacion (Spain).
+* **EcoBase** Project (2026-2029), <i>Establishing restoration baselines and strategies from historical ecological trajectories in Spain</i>, Project of "Generación de conocimiento" (PID2025-173009OA-I00) funded by the Ministerio Ciencia, Innovación y Universidades – Agencia Estatal de Investigacion (Spain). (Project granted in 07/2026, to start in the second half of 2026)
+
+* **REDESIGN** Project (2026-2029), <i>Restoration and Depopulation Synergies for Nature</i> as part of the Biodiversa+ 2024 “BiodivTransform” call. Project coordinator: D. Kaim (Jagiellonian University in Krakow, PL). Funding: Ministerio Ciencia, Innovación y Universidades – Agencia Estatal de Investigacion (PCI2025-167199-2)  
+
+* **BaseRESTORE** Project (2025-2027), <i>Reconstructing historical ecosystems distributions and services to establish restoration baselines and their implications for policy and decision making</i>. Project of "Consolidación Investigadora" (CNS2024-154503) funded by the Ministerio Ciencia, Innovación y Universidades – Agencia Estatal de Investigacion (Spain).
 
 ### As WP lead or collaborator 
 * [**NaturaConnect**](https://naturaconnect.eu/) Project (2022-2026), <i>Building a resilient ecological network of conserved areas across Europe for nature and people</i>. Funded by the European Commission, Horizon Europe program. Role: **co-lead of WP3: Baselines and scenarios for European biodiversity**. Project PI: Piero Visconti (IIASA).  
