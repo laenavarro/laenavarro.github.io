@@ -7,7 +7,7 @@ author_profile: true
 
 Master students
 ======
-* **Rocío Ponce Nieves**, <i>Historical Ecology Meets Ecosystem Services: Modeling Species Distributions and Historical Nature’s Contributions to People in Spain</i>, ongoing. **MSc thesis University Pablo de Olavide (Spain)**. Supervisor: L.M. Navarro
+* **Rocío Ponce Nieves**, <i>Historical Ecology Meets Ecosystem Services: Modeling Species Distributions and Historical Nature’s Contributions to People in Spain</i>, defended in July 2026. **MSc thesis University Pablo de Olavide (Spain)**. Supervisor: L.M. Navarro
 * **Mario Galileo Antón Enríquez**, <i>Linking past connectivity to future conservation in Spanish carnivores</i>, defended in Oct. 2025. **MSc thesis University Pablo de Olavide (Spain)**. Supervisors: L.M. Navarro & Aimara Planillo
 * **Alicia Herrador Rodríguez**, <i>Impact of human linear features on the behaviour of the wolf (Canis lupus)</i>, defended in Sept. 2025. **MSc thesis Anglia Ruskin University (UK)**. Supervisors: Helen Wheeler, Laetitia M. Navarro, Ainara Cortés Avianda and Marcello D’Amico.
 * **Sergio Ortega Quintanilla**, <i>Availability of trait data for vertebrates in Doñana: analytical and comparative (Disponibilidad de datos de rasgos para vertebrados en Doñana: analítica y comparativa)</i>, defended in Sept. 2025. **MSc thesis University of Córdoba (Spain)**. Supervisor: L.M. Navarro
